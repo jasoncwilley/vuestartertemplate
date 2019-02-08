@@ -10,8 +10,3 @@ export default {
   name: 'home' //this is the name of the component
 }
 </script>
-<style>
-  .spacing {
-    Margin-right: 10px;
-  }
-</style>
